@@ -14,3 +14,13 @@ img {
   margin: 0 auto;
   max-height: 450px;
 }
+
+div {
+  padding: 8px 24px;
+}
+
+.ingredients {
+  background-color: rgb(253, 225, 231);
+  margin-right: auto;
+  width: fit-content;
+}
